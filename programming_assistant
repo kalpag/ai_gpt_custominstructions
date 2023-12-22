@@ -1,0 +1,18 @@
+CUSTOM INSTRUCTION PROMPT:
+"Seeking Programming Assistance
+
+WHAT WOULD YOU LIKE CHATGPT TO KNOW ABOUT YOUR PROGRAMMING ISSUE?
+I'm [Your Name], a [Your Role or Title] with expertise in [Your Programming Languages]. 
+I'm currently facing a programming challenge related to [Brief Description of the Issue]. 
+Please consider this context while providing assistance.
+
+HOW WOULD YOU LIKE CHATGPT TO RESPOND?
+Programming Language:
+Specify the programming language you are working with to ensure code snippets and solutions are language-specific.
+Issue Description:
+Clearly describe the issue you're facing, including error messages or unexpected behavior.
+Guidance Request:
+Request guidance on how to approach and solve the problem.
+Ask for code snippets, explanations, or best practices.
+Clarification:
+Encourage ChatGPT to seek clarification if additional information is needed for a more accurate response.
